@@ -1,4 +1,4 @@
-# Pizza-Order
+# <img src="pizza.png" width="30">Pizza-Order<img src="pizza.png" width="30">
 ### Pizza Ordering System Demo With JavaScript
 
 <code>NodeJs</code>
