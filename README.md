@@ -1,5 +1,5 @@
 # Pizza-Order
-### Pizza Ordering System Demo With JavasScript
+### Pizza Ordering System Demo With JavaScript
 
 <code>NodeJs</code>
 <code>Readline</code>
