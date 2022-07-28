@@ -146,14 +146,14 @@ function checkAge() {
 
     if (userAge < 18) {
 
-      rl.write('\nYou Are Too Young And You Can\'t Enter To Shop\n')
+      rl.write('\nYou Are Too Young And You Can\'t Enter To The Shop\n')
       rl.close()
 
     }
     else {
       if (userAge > 60) {
 
-        rl.write('\nYou Are Too Old And You Can\'t Enter To Shop\n')
+        rl.write('\nYou Are Too Old And You Can\'t Enter To The Shop\n')
         rl.close()
 
       }
